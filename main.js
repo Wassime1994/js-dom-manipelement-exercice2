@@ -1,0 +1,5 @@
+let tartine = document.querySelectorAll('.tartine')
+console.log(tartine[0].textContent)
+let toast = document.querySelector("#toast")
+console.log(toast)
+console.log(tartine[tartine.length-1])
